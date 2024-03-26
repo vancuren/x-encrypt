@@ -1,0 +1,25 @@
+{
+  "name": "x-encrypt",
+  "version": "1.0.0",
+  "description": "A helper to encrypt and decrypt a payload with a provided key",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vancuren/x-encrypt.git"
+  },
+  "keywords": [
+    "encrypt",
+    "decrypt",
+    "helper",
+    "encryption"
+  ],
+  "author": "Russell Van Curen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vancuren/x-encrypt/issues"
+  },
+  "homepage": "https://github.com/vancuren/x-encrypt#readme"
+}
